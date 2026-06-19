@@ -1,0 +1,11 @@
+ langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pypdf
+gradio
+SpeechRecognition
+deep-translator
